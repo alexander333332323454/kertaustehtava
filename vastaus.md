@@ -33,4 +33,15 @@ Listaa kaikki haarat:
 paikalliset haarat, 
 etähaarat
 # Osio 3
+Yhdistämispyyntö (pull request) on githubissa käytettävä toiminto, jolla ehdotetaan muutosten yhdistämistä yhdestä haarasta toiseen, yleensä kehityshaarasta päähaaraan (main)
+
+Pull requestia käytetään:
+
+koodin tarkistamiseen
+
+tiimityöskentelyyn
+
+muutoksista keskusteluun
+
+laadun varmistamiseen ennen yhdistämistä
 # Osio 4
