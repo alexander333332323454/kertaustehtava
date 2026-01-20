@@ -45,3 +45,24 @@ muutoksista keskusteluun
 
 laadun varmistamiseen ennen yhdistämistä
 # Osio 4
+Git on versionhallintajärjestelmä, jonka avulla voidaan:
+
+seurata tiedostojen muutoksia
+
+hallita eri versioita
+
+työskennellä haaroilla paikallisesti
+
+GitHub on verkkopalvelu, joka hyödyntää git:iä ja tarjoaa:
+
+etäarkistot
+
+yhteistyö- ja tarkistustyökalut
+
+pull requestit
+
+issue-seurannan
+
+Ero
+
+Git on työkalu, github on palvelu.
